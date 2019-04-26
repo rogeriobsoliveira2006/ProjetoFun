@@ -1,0 +1,14 @@
+C:\Repo\src\ProjetoFun\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.Services.deps.json
+C:\Repo\src\ProjetoFun\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.Services.runtimeconfig.json
+C:\Repo\src\ProjetoFun\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.Services.runtimeconfig.dev.json
+C:\Repo\src\ProjetoFun\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.Services.dll
+C:\Repo\src\ProjetoFun\Projeto.Services\bin\Debug\netcoreapp2.2\Projeto.Services.pdb
+C:\Repo\src\ProjetoFun\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.csprojAssemblyReference.cache
+C:\Repo\src\ProjetoFun\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.csproj.CoreCompileInputs.cache
+C:\Repo\src\ProjetoFun\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.RazorAssemblyInfo.cache
+C:\Repo\src\ProjetoFun\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.RazorAssemblyInfo.cs
+C:\Repo\src\ProjetoFun\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.AssemblyInfoInputs.cache
+C:\Repo\src\ProjetoFun\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.AssemblyInfo.cs
+C:\Repo\src\ProjetoFun\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.RazorTargetAssemblyInfo.cache
+C:\Repo\src\ProjetoFun\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.dll
+C:\Repo\src\ProjetoFun\Projeto.Services\obj\Debug\netcoreapp2.2\Projeto.Services.pdb

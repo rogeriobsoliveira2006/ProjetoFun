@@ -1,0 +1,9 @@
+C:\Repo\src\ProjetoFun\Projeto.Business.Contracts\bin\Debug\netcoreapp2.2\Projeto.Business.Contracts.deps.json
+C:\Repo\src\ProjetoFun\Projeto.Business.Contracts\bin\Debug\netcoreapp2.2\Projeto.Business.Contracts.dll
+C:\Repo\src\ProjetoFun\Projeto.Business.Contracts\bin\Debug\netcoreapp2.2\Projeto.Business.Contracts.pdb
+C:\Repo\src\ProjetoFun\Projeto.Business.Contracts\obj\Debug\netcoreapp2.2\Projeto.Business.Contracts.csprojAssemblyReference.cache
+C:\Repo\src\ProjetoFun\Projeto.Business.Contracts\obj\Debug\netcoreapp2.2\Projeto.Business.Contracts.csproj.CoreCompileInputs.cache
+C:\Repo\src\ProjetoFun\Projeto.Business.Contracts\obj\Debug\netcoreapp2.2\Projeto.Business.Contracts.AssemblyInfoInputs.cache
+C:\Repo\src\ProjetoFun\Projeto.Business.Contracts\obj\Debug\netcoreapp2.2\Projeto.Business.Contracts.AssemblyInfo.cs
+C:\Repo\src\ProjetoFun\Projeto.Business.Contracts\obj\Debug\netcoreapp2.2\Projeto.Business.Contracts.dll
+C:\Repo\src\ProjetoFun\Projeto.Business.Contracts\obj\Debug\netcoreapp2.2\Projeto.Business.Contracts.pdb
