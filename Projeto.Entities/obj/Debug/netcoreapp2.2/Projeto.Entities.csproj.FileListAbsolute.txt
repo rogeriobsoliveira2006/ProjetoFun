@@ -7,3 +7,12 @@ C:\Repo\src\ProjetoFun\Projeto.Entities\obj\Debug\netcoreapp2.2\Projeto.Entities
 C:\Repo\src\ProjetoFun\Projeto.Entities\obj\Debug\netcoreapp2.2\Projeto.Entities.AssemblyInfo.cs
 C:\Repo\src\ProjetoFun\Projeto.Entities\obj\Debug\netcoreapp2.2\Projeto.Entities.dll
 C:\Repo\src\ProjetoFun\Projeto.Entities\obj\Debug\netcoreapp2.2\Projeto.Entities.pdb
+C:\Projetos\src\ProjetoFun\Projeto.Entities\bin\Debug\netcoreapp2.2\Projeto.Entities.deps.json
+C:\Projetos\src\ProjetoFun\Projeto.Entities\bin\Debug\netcoreapp2.2\Projeto.Entities.dll
+C:\Projetos\src\ProjetoFun\Projeto.Entities\bin\Debug\netcoreapp2.2\Projeto.Entities.pdb
+C:\Projetos\src\ProjetoFun\Projeto.Entities\obj\Debug\netcoreapp2.2\Projeto.Entities.csprojAssemblyReference.cache
+C:\Projetos\src\ProjetoFun\Projeto.Entities\obj\Debug\netcoreapp2.2\Projeto.Entities.csproj.CoreCompileInputs.cache
+C:\Projetos\src\ProjetoFun\Projeto.Entities\obj\Debug\netcoreapp2.2\Projeto.Entities.AssemblyInfoInputs.cache
+C:\Projetos\src\ProjetoFun\Projeto.Entities\obj\Debug\netcoreapp2.2\Projeto.Entities.AssemblyInfo.cs
+C:\Projetos\src\ProjetoFun\Projeto.Entities\obj\Debug\netcoreapp2.2\Projeto.Entities.dll
+C:\Projetos\src\ProjetoFun\Projeto.Entities\obj\Debug\netcoreapp2.2\Projeto.Entities.pdb

@@ -7,3 +7,12 @@ C:\Repo\src\ProjetoFun\Projeto.Business.Impl\obj\Debug\netcoreapp2.2\Projeto.Bus
 C:\Repo\src\ProjetoFun\Projeto.Business.Impl\obj\Debug\netcoreapp2.2\Projeto.Business.Impl.AssemblyInfo.cs
 C:\Repo\src\ProjetoFun\Projeto.Business.Impl\obj\Debug\netcoreapp2.2\Projeto.Business.Impl.dll
 C:\Repo\src\ProjetoFun\Projeto.Business.Impl\obj\Debug\netcoreapp2.2\Projeto.Business.Impl.pdb
+C:\Projetos\src\ProjetoFun\Projeto.Business.Impl\bin\Debug\netcoreapp2.2\Projeto.Business.Impl.deps.json
+C:\Projetos\src\ProjetoFun\Projeto.Business.Impl\bin\Debug\netcoreapp2.2\Projeto.Business.Impl.dll
+C:\Projetos\src\ProjetoFun\Projeto.Business.Impl\bin\Debug\netcoreapp2.2\Projeto.Business.Impl.pdb
+C:\Projetos\src\ProjetoFun\Projeto.Business.Impl\obj\Debug\netcoreapp2.2\Projeto.Business.Impl.csprojAssemblyReference.cache
+C:\Projetos\src\ProjetoFun\Projeto.Business.Impl\obj\Debug\netcoreapp2.2\Projeto.Business.Impl.csproj.CoreCompileInputs.cache
+C:\Projetos\src\ProjetoFun\Projeto.Business.Impl\obj\Debug\netcoreapp2.2\Projeto.Business.Impl.AssemblyInfoInputs.cache
+C:\Projetos\src\ProjetoFun\Projeto.Business.Impl\obj\Debug\netcoreapp2.2\Projeto.Business.Impl.AssemblyInfo.cs
+C:\Projetos\src\ProjetoFun\Projeto.Business.Impl\obj\Debug\netcoreapp2.2\Projeto.Business.Impl.dll
+C:\Projetos\src\ProjetoFun\Projeto.Business.Impl\obj\Debug\netcoreapp2.2\Projeto.Business.Impl.pdb

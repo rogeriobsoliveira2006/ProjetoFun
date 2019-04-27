@@ -6,3 +6,12 @@ C:\Repo\src\ProjetoFun\Projeto.Repository.Impl\obj\Debug\netcoreapp2.2\Projeto.R
 C:\Repo\src\ProjetoFun\Projeto.Repository.Impl\obj\Debug\netcoreapp2.2\Projeto.Repository.Impl.AssemblyInfo.cs
 C:\Repo\src\ProjetoFun\Projeto.Repository.Impl\obj\Debug\netcoreapp2.2\Projeto.Repository.Impl.dll
 C:\Repo\src\ProjetoFun\Projeto.Repository.Impl\obj\Debug\netcoreapp2.2\Projeto.Repository.Impl.pdb
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Impl\bin\Debug\netcoreapp2.2\Projeto.Repository.Impl.deps.json
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Impl\bin\Debug\netcoreapp2.2\Projeto.Repository.Impl.dll
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Impl\bin\Debug\netcoreapp2.2\Projeto.Repository.Impl.pdb
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Impl\obj\Debug\netcoreapp2.2\Projeto.Repository.Impl.csprojAssemblyReference.cache
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Impl\obj\Debug\netcoreapp2.2\Projeto.Repository.Impl.csproj.CoreCompileInputs.cache
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Impl\obj\Debug\netcoreapp2.2\Projeto.Repository.Impl.AssemblyInfoInputs.cache
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Impl\obj\Debug\netcoreapp2.2\Projeto.Repository.Impl.AssemblyInfo.cs
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Impl\obj\Debug\netcoreapp2.2\Projeto.Repository.Impl.dll
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Impl\obj\Debug\netcoreapp2.2\Projeto.Repository.Impl.pdb

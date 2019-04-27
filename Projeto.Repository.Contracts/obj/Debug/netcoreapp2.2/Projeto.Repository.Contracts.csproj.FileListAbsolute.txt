@@ -7,3 +7,12 @@ C:\Repo\src\ProjetoFun\Projeto.Repository.Contracts\obj\Debug\netcoreapp2.2\Proj
 C:\Repo\src\ProjetoFun\Projeto.Repository.Contracts\obj\Debug\netcoreapp2.2\Projeto.Repository.Contracts.AssemblyInfo.cs
 C:\Repo\src\ProjetoFun\Projeto.Repository.Contracts\obj\Debug\netcoreapp2.2\Projeto.Repository.Contracts.dll
 C:\Repo\src\ProjetoFun\Projeto.Repository.Contracts\obj\Debug\netcoreapp2.2\Projeto.Repository.Contracts.pdb
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Contracts\bin\Debug\netcoreapp2.2\Projeto.Repository.Contracts.deps.json
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Contracts\bin\Debug\netcoreapp2.2\Projeto.Repository.Contracts.dll
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Contracts\bin\Debug\netcoreapp2.2\Projeto.Repository.Contracts.pdb
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Contracts\obj\Debug\netcoreapp2.2\Projeto.Repository.Contracts.csprojAssemblyReference.cache
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Contracts\obj\Debug\netcoreapp2.2\Projeto.Repository.Contracts.csproj.CoreCompileInputs.cache
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Contracts\obj\Debug\netcoreapp2.2\Projeto.Repository.Contracts.AssemblyInfoInputs.cache
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Contracts\obj\Debug\netcoreapp2.2\Projeto.Repository.Contracts.AssemblyInfo.cs
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Contracts\obj\Debug\netcoreapp2.2\Projeto.Repository.Contracts.dll
+C:\Projetos\src\ProjetoFun\Projeto.Repository.Contracts\obj\Debug\netcoreapp2.2\Projeto.Repository.Contracts.pdb

@@ -16,24 +16,27 @@ namespace Projeto.Services.Controllers
     public class FuncionarioController : ControllerBase
     {
         [HttpPost("cadastrar")] //requisição do tipo POST //URL:api/[controller]/cadastrar
-        public HttpResponseMessage Cadastrar(FuncionarioCadastroRequest request)
+        public ActionResult Cadastrar(FuncionarioCadastroRequest request)
         {
-            var response = new FuncionarioCadastroResponse();
+            //var response = new FuncionarioCadastroResponse();
 
             if (ModelState.IsValid)
             {
-                response.Mensagem = $"Funcionário {request.Nome} | Cadastrado com sucesso !";
-                
-                //retornar STATUS de erro (HTTP 200)
-                return CreateResponse(HttpStatusCode.OK, response);
+                return new ContentResult
+                {
+                    Content = $"Funcionário {request.Nome} | Cadastrado com sucesso !",
+                    ContentType = "text/plain",
+                    StatusCode = 200
+                };
             }
             else
             {
-                response.Mensagem = "Ocorreram erros de validação.";
-                
-                //retornar STATUS de erro (HTTP 400)
-                return Request.CreateResponse(HttpStatusCode.BadRequest, response);
-
+                return new ContentResult
+                {
+                    Content = "Ocorreram erros de validação.",
+                    ContentType = "text/plain",
+                    StatusCode = 400
+                };
             }
         }
     }
