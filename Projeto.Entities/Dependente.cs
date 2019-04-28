@@ -1,13 +1,19 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 
 namespace Projeto.Entities
 {
     public class Dependente
     {
         public int DependenteId { get; set; }
+
+        [MaxLength(50)]
         public string Nome { get; private set; }
+
+        [DataType(DataType.Date)]
         public DateTime DataNascimento { get; private set; }
 
+        public int FuncionarioId { get; set; }
         //TER-Um
         public Funcionario Funcionario { get; set; }
 
@@ -28,7 +34,7 @@ namespace Projeto.Entities
             Nome = nome;
         }
 
-        public void AddDaTaNascimento(DateTime dataNascimento)
+        public void AddDataNascimento(DateTime dataNascimento)
         {
             DataNascimento = dataNascimento;
         }

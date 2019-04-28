@@ -16,3 +16,6 @@ C:\Projetos\src\ProjetoFun\Projeto.Business.Contracts\obj\Debug\netcoreapp2.2\Pr
 C:\Projetos\src\ProjetoFun\Projeto.Business.Contracts\obj\Debug\netcoreapp2.2\Projeto.Business.Contracts.AssemblyInfo.cs
 C:\Projetos\src\ProjetoFun\Projeto.Business.Contracts\obj\Debug\netcoreapp2.2\Projeto.Business.Contracts.dll
 C:\Projetos\src\ProjetoFun\Projeto.Business.Contracts\obj\Debug\netcoreapp2.2\Projeto.Business.Contracts.pdb
+C:\Projetos\src\ProjetoFun\Projeto.Business.Contracts\bin\Debug\netcoreapp2.2\Projeto.Entities.dll
+C:\Projetos\src\ProjetoFun\Projeto.Business.Contracts\bin\Debug\netcoreapp2.2\Projeto.Entities.pdb
+C:\Projetos\src\ProjetoFun\Projeto.Business.Contracts\obj\Debug\netcoreapp2.2\Projeto.Business.Contracts.csproj.CopyComplete

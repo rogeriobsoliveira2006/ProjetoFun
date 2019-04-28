@@ -1,14 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using System.ComponentModel.DataAnnotations;
 
 namespace Projeto.Entities
 {
     public class Funcionario
     {
         public int FuncionarioId { get; set; }
+
+        [MaxLength(50)]
         public string Nome { get; private set; }
+
         public decimal Salario { get; private set; }
+
+        [DataType(DataType.Date)]
         public DateTime DataAdmissao { get; private set; }
 
         //TER-Muitos

@@ -7,14 +7,54 @@
   "targets": {
     ".NETCoreApp,Version=v2.2": {
       "Projeto.Business.Impl/1.0.0": {
+        "dependencies": {
+          "Projeto.Business.Contracts": "1.0.0",
+          "Projeto.Repository.Contracts": "1.0.0"
+        },
         "runtime": {
           "Projeto.Business.Impl.dll": {}
+        }
+      },
+      "Projeto.Business.Contracts/1.0.0": {
+        "dependencies": {
+          "Projeto.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Projeto.Business.Contracts.dll": {}
+        }
+      },
+      "Projeto.Entities/1.0.0": {
+        "runtime": {
+          "Projeto.Entities.dll": {}
+        }
+      },
+      "Projeto.Repository.Contracts/1.0.0": {
+        "dependencies": {
+          "Projeto.Entities": "1.0.0"
+        },
+        "runtime": {
+          "Projeto.Repository.Contracts.dll": {}
         }
       }
     }
   },
   "libraries": {
     "Projeto.Business.Impl/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Projeto.Business.Contracts/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Projeto.Entities/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Projeto.Repository.Contracts/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

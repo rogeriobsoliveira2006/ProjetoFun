@@ -207,6 +207,42 @@
         "build": {
           "build/netstandard2.0/NETStandard.Library.targets": {}
         }
+      },
+      "Projeto.Business.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "Projeto.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Projeto.Business.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Projeto.Business.Contracts.dll": {}
+        }
+      },
+      "Projeto.Entities/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "compile": {
+          "bin/placeholder/Projeto.Entities.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Projeto.Entities.dll": {}
+        }
+      },
+      "Projeto.Repository.Contracts/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v2.2",
+        "dependencies": {
+          "Projeto.Entities": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Projeto.Repository.Contracts.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Projeto.Repository.Contracts.dll": {}
+        }
       }
     }
   },
@@ -678,11 +714,28 @@
         "netstandard.library.2.0.3.nupkg.sha512",
         "netstandard.library.nuspec"
       ]
+    },
+    "Projeto.Business.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Projeto.Business.Contracts/Projeto.Business.Contracts.csproj",
+      "msbuildProject": "../Projeto.Business.Contracts/Projeto.Business.Contracts.csproj"
+    },
+    "Projeto.Entities/1.0.0": {
+      "type": "project",
+      "path": "../Projeto.Entities/Projeto.Entities.csproj",
+      "msbuildProject": "../Projeto.Entities/Projeto.Entities.csproj"
+    },
+    "Projeto.Repository.Contracts/1.0.0": {
+      "type": "project",
+      "path": "../Projeto.Repository.Contracts/Projeto.Repository.Contracts.csproj",
+      "msbuildProject": "../Projeto.Repository.Contracts/Projeto.Repository.Contracts.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
-      "Microsoft.NETCore.App >= 2.2.0"
+      "Microsoft.NETCore.App >= 2.2.0",
+      "Projeto.Business.Contracts >= 1.0.0",
+      "Projeto.Repository.Contracts >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -714,7 +767,14 @@
       },
       "frameworks": {
         "netcoreapp2.2": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Projetos\\src\\ProjetoFun\\Projeto.Business.Contracts\\Projeto.Business.Contracts.csproj": {
+              "projectPath": "C:\\Projetos\\src\\ProjetoFun\\Projeto.Business.Contracts\\Projeto.Business.Contracts.csproj"
+            },
+            "C:\\Projetos\\src\\ProjetoFun\\Projeto.Repository.Contracts\\Projeto.Repository.Contracts.csproj": {
+              "projectPath": "C:\\Projetos\\src\\ProjetoFun\\Projeto.Repository.Contracts\\Projeto.Repository.Contracts.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
